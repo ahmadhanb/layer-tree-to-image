@@ -1,4 +1,4 @@
-# layer Tree to Image Plugin
+# Layer Tree to Image Plugin
 
 This plugin exports the layers in the QGIS canvas into PNGs. Users can export all layers or only selected layers as PNGs. It is useful when the user wants to create a movie to animate the temporal change without having a timestamp column in the GIS data.
 
