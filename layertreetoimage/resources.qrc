@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Layer_Tree_To_Image" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
